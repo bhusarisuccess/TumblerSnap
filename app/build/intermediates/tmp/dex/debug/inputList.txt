@@ -1,0 +1,9 @@
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/classes/debug
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/codepath-utils-be0d6c99e7d252f240349852a2aab0d831b0fe74.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-fdfdddff5cb46b76a7d1dd0235fdc25f2a1c8ff4.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-9a32b0bb1149bc9948f6a548395acee8bc89ebe2.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-d96a08d548ffa27140fd2d23d14d1cc76619b7e2.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-3bfd9178dc9a07c8e34626f4dba2762828d64390.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/scribe-bb389b8c38973bc451e063024e1be12970c3d0ec.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/androidjhlabs-d7be871d010ae67d799c2ca95f792d9e961d99d9.jar
+/Users/mohinish/Desktop/TumblerSnap/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-fe0b1e4f8b8b07003ada81f7963800d187324502.jar
